@@ -1,6 +1,7 @@
 {
   "orgName": "DreamHouse Realty",
   "edition": "Developer",
+  "sourceApiVersion" : "48.0",
   "settings": {
     "mobileSettings": {
       "enableS1EncryptedStoragePref2": false
